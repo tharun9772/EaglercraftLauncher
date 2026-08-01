@@ -1,10 +1,10 @@
 [
         {
-        "title": "The Better Version",
+        "title": "Site Remake: The Better Version",
         "version": "v1.5.01",
         "description": "The Better Version, By Bloxcrfat Studios",
         "date": "Saturday, Auguest 1st, 2026",
-        "icon": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/bloxcraft_transparent.png",
+        "icon": "bloxcraft_transparent.webp",
         "type": "site",
         "notes": [
             "Added EaglyMC 1.20.1 (In Mods)",
