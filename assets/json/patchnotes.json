@@ -1,4 +1,16 @@
 [
+        {
+        "title": "The Better Version",
+        "version": "v1.5.01",
+        "description": "The Better Version",
+        "date": "Saturday, Auguest 1st, 2026",
+        "icon": "icons/settings-pn.png",
+        "type": "site",
+        "notes": [
+            "Added EaglyMC 1.20.1 (In Mods)",
+            "Made A Nice Singlefile Version"
+        ]
+    },
     {
         "title": "Site Update: Customizable",
         "version": "v1.5.00",
