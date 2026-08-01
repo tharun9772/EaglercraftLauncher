@@ -9,16 +9,8 @@ hr {
   font-size: 0.8rem;
 }
 
-@media only screen and (max-height: 400px) {
-  #screenerror {
+#screenerror {
   display: block;
-  }
-}
-
-@media only screen and (max-width: 900px) {
-  #screenerror {
-  display: block;
-  }
 }
 
 /* Confirmation Menu CSS */
@@ -47,6 +39,7 @@ hr {
 /* Sidebar CSS */
 
 .sidebar {
+  position: relative;
   width: 5.5vw;
 }
 
@@ -57,6 +50,9 @@ hr {
 }
 
 .sidebarOptions.sidebarBottom {
+  position: absolute;
+  left: 0;
+  right: 0;
   height: 9vh;
   margin-bottom: 0;
 }
@@ -84,11 +80,8 @@ hr {
   padding: 2vw 2.5vw 1vw;
 }
 
-.headerButtons {
-  font-size: 1.2vw;
-}
-
-.headerButtonSelected {
+.headerButtons,
+.headerButtons.selected {
   font-size: 1.2vw;
 }
 
