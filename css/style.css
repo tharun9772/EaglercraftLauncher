@@ -298,13 +298,15 @@ hr {
 }
 
 #gameSelection {
-    position: relative;
+    position: fixed;
+    left: 16vw;
     bottom: 0;
     width: 84vw;
     height: 4.5vw;
     justify-content: space-around;
     display: flex;
     background-color: var(--ui-main);
+    z-index: 2000;
 }
 
 .dropdownSelector {
